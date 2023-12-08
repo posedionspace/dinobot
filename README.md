@@ -1,0 +1,3 @@
+# dinobot
+
+Dinobot meme token
